@@ -153,7 +153,8 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: start;
+    text-align: left;
 }
 
 .web-development-text-content h3{
@@ -188,10 +189,9 @@ body{
     color: rgb(13, 19, 33);
     font-size: 20px;
     font-weight: 600;
-    line-height: 23px;
     text-align: center;
     padding: 12px 20px;
-    margin-right: 335px;
+    margin-right: 430px;
     opacity: 0.7;
     margin-top: 32px;
     margin-bottom: 10.5px;
@@ -226,6 +226,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-right: 40px;
 }
 
 #web-development-text-content-2{
@@ -309,6 +310,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-right: 40px;
 }
 
 .web-development-text-content h3{
@@ -347,7 +349,7 @@ body{
     line-height: 23px;
     text-align: center;
     padding: 12px 20px;
-    margin-right: 367px;
+    margin-right: 430px;
     opacity: 0.7;
     margin-top: 32px;
     margin-bottom: 10.5px;
