@@ -61,5 +61,282 @@ body{
     line-height: 23px;
     padding: 21px 24px;
     margin: 32px 377px 45px;
+    cursor: pointer;
 }
 /* Banner section styles ends here */
+
+
+/* Main section starts from here */
+.web-development-container{
+    max-width: 100%;
+    height: 1420px;
+    margin: 74px 152px 90px 148px;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+
+.web-development-content{
+    max-width: 100%;
+    height: 1260px;
+    margin: 80px 97px;
+}
+
+.web-development-headings{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 47px 48px;
+}
+
+.web-development-headings h2 {
+    margin-bottom: 20px;
+    margin-top: 80px;
+}
+
+.web-development-content h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+}
+
+.web-development-content p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    opacity: 0.7;
+}
+
+/* Development-1 start from here */
+
+.web-development-text-1{
+    max-width: 100%;
+    max-height: 336px;
+    padding: 48px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin-bottom: 32px;
+}
+.web-development-text-1-inside{
+    max-width: 100%;
+    max-height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.web-development-text-content{
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.web-development-text-content h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.web-development-text-content p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    opacity: 0.7;
+}
+
+#web-development-image {
+    margin-top: 4px; 
+    margin-right: 14px;
+    margin-bottom: 19px;
+    margin-left: 100px;
+    width: 259.56px;
+    height: 217.01px;
+}
+
+.btn-web-development-text-1{
+    width: 171px;
+    height: 47px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+    padding: 12px 20px;
+    margin-right: 335px;
+    opacity: 0.7;
+    margin-top: 32px;
+    margin-bottom: 10.5px;
+    cursor: pointer;
+}
+
+/* Development-1 end here */
+
+
+/* Development-2 start from here */
+
+.web-development-text-2{
+    max-width: 100%;
+    max-height: 336px;
+    padding: 48px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin-bottom: 32px;
+}
+.web-development-text-2-inside{
+    max-width: 100%;
+    max-height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.web-development-text-content{
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#web-development-text-content-2{
+    /* margin: 10px 101px 32px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 101px;
+    margin-left: 32px;
+}
+.web-development-text-content h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+    margin-top: 10.5px;
+}
+
+.web-development-text-content p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    opacity: 0.7;
+}
+
+#web-development-image {
+    margin-top: 4px; 
+    margin-right: 14px;
+    margin-bottom: 19px;
+    margin-left: 100px;
+    width: 259.56px;
+    height: 217.01px;
+}
+
+.btn-web-development-text-2{
+    width: 171px;
+    height: 47px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+    padding: 12px 20px;
+    margin-right: 367px;
+    opacity: 0.7;
+    margin-top: 32px;
+    margin-bottom: 10.5px;
+    cursor: pointer;
+}
+#image-dev-2{
+    width: 223.2px;
+    height: 208.85px;
+}
+
+/* Development-2 end here */
+
+
+/* Development-3 start from here */
+.web-development-text-3{
+    max-width: 100%;
+    max-height: 336px;
+    padding: 48px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.web-development-text-3-inside{
+    max-width: 100%;
+    max-height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.web-development-text-content{
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.web-development-text-content h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+    margin-top: 10.5px;
+}
+
+.web-development-text-content p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    opacity: 0.7;
+}
+
+#web-development-image {
+    margin-top: 4px; 
+    margin-right: 14px;
+    margin-bottom: 19px;
+    margin-left: 100px;
+    width: 259.56px;
+    height: 217.01px;
+}
+
+.btn-web-development-text-3{
+    width: 171px;
+    height: 47px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+    padding: 12px 20px;
+    margin-right: 367px;
+    opacity: 0.7;
+    margin-top: 32px;
+    margin-bottom: 10.5px;
+    cursor: pointer;
+}
+#image-dev-3{
+    width: 206.4px;
+    height: 187.32px;
+    margin: 26px 16px;
+}
+/* Development-3 end here */
