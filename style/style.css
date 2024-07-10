@@ -386,5 +386,102 @@ body{
     padding: 32px;
 }
 
-
 /* Ends My Inspiration section */
+
+/* Starts My Current Target */
+.My-Current-Target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 151px;
+    margin-bottom: 111px;
+}
+
+.My-Current-Target-text{
+    width: 852px;
+    height: 113px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 144px 48px;
+    text-align: center;
+}
+
+.My-Current-Target-text h5{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.My-Current-Target-text p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+/* Shared Styles */
+.shared-style{
+    padding: 40px;
+}
+.My-Current-Target-technologies{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 1140px;
+    height: 299px;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+
+.My-Current-Target-html{
+    margin-right: 24px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    margin-bottom: 8px ;
+}
+
+.My-Current-Target-html, .My-Current-Target-javascript, .My-Current-Target-css h3{
+    margin-bottom: 8px ;
+}
+
+.My-Current-Target-html, .My-Current-Target-javascript, .My-Current-Target-css p{
+    opacity: 0.7;
+}
+
+
+.My-Current-Target-css{
+    margin-right: 24px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.My-Current-Target-javascript{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.My-Current-Target-html, .My-Current-Target-css, .My-Current-Target-javascript{
+    width: 33%;
+    height: 100%;
+    margin-top: 30px;
+}
+
+
+.my-current-target-btn{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+    border: none;
+    margin-top: 24px;
+    background: none;
+    cursor: pointer;
+}
+
+.My-Current-Target-image{
+    margin-bottom: 24px;
+}
+/* Ends My Current Target */
